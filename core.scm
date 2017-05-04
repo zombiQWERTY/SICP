@@ -1,1 +1,0 @@
-cat ./core.scm | scheme
